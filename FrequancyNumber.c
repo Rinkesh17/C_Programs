@@ -1,7 +1,7 @@
 /*
    Author: Rinkesh Narayan Ingole
    Date  : 16/11/2020
-   About: This C Program about Accept N number from user as well        as accept one number and return thre frequency of that number
+   About: This C Program about Accept N number from user as well as accept one number and return thre frequency of that number
 
 */
 
